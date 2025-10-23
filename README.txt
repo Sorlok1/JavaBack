@@ -1,0 +1,2 @@
+Para esta pre-entrega me quise enfocar en practicar y afianzar lo visto en clase antes de aplicarlo. Pido disculpas si no es el abordaje más apropiado.
+A diferencia de la modalidad de clase, no tengo una estructura "Categoria.java" y en su lugar decidí por optar por el momento por productos con stock y dervicios con una duración en horas.
